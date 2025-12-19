@@ -1,0 +1,26 @@
+﻿@model List<Program04.Models.Student>
+
+<html>
+<head><link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+    <a href="/Home/Create" value ="Add">Add</a>
+    <table class="table table-success table-striped;table table-bordered; table table-sm">
+        <thead>
+            <th>Id</th>s
+            <th>Name</th>
+            <th>Course Name</th>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.CourseName</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+        

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClassDemo/ClassDemo.csproj" Id="20d169c6-66de-49c9-a292-26bc1860f2b6" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="InheritanceDemo/InheritanceDemo.csproj" Id="e8f0b280-f282-485a-80a5-a62df7d5e65d" />
+</Solution>

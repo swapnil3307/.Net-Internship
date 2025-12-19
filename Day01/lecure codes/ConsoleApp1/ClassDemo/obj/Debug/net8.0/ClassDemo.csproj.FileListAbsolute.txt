@@ -1,0 +1,14 @@
+D:\internship.net\ConsoleApp1\ClassDemo\bin\Debug\net8.0\ClassDemo.exe
+D:\internship.net\ConsoleApp1\ClassDemo\bin\Debug\net8.0\ClassDemo.deps.json
+D:\internship.net\ConsoleApp1\ClassDemo\bin\Debug\net8.0\ClassDemo.runtimeconfig.json
+D:\internship.net\ConsoleApp1\ClassDemo\bin\Debug\net8.0\ClassDemo.dll
+D:\internship.net\ConsoleApp1\ClassDemo\bin\Debug\net8.0\ClassDemo.pdb
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.AssemblyInfoInputs.cache
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.AssemblyInfo.cs
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.csproj.CoreCompileInputs.cache
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.dll
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\refint\ClassDemo.dll
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.pdb
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ClassDemo.genruntimeconfig.cache
+D:\internship.net\ConsoleApp1\ClassDemo\obj\Debug\net8.0\ref\ClassDemo.dll

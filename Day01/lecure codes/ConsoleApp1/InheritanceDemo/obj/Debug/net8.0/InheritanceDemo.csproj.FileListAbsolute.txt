@@ -1,0 +1,14 @@
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\internship.net\ConsoleApp1\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+D:\internship.net\ConsoleApp1\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+D:\internship.net\ConsoleApp1\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+D:\internship.net\ConsoleApp1\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+D:\internship.net\ConsoleApp1\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+D:\internship.net\ConsoleApp1\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

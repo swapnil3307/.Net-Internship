@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Program01/Program01.csproj" />
+  <Project Path="Program02(maths)/Program02(maths).csproj" Id="23537297-f570-4600-93f0-788344b9e316" />
+  <Project Path="Program03/Program03.csproj" />
+  <Project Path="Program04/Program04.csproj" Id="d354dad0-e517-4c72-8c4a-4235d3855c51" />
+</Solution>

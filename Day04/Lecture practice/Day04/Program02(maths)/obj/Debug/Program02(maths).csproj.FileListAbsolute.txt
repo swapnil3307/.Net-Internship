@@ -1,0 +1,6 @@
+D:\internship.net\Days\Day04\Lecture practice\Day04\Program02(maths)\bin\Debug\Program02(maths).dll
+D:\internship.net\Days\Day04\Lecture practice\Day04\Program02(maths)\bin\Debug\Program02(maths).pdb
+D:\internship.net\Days\Day04\Lecture practice\Day04\Program02(maths)\obj\Debug\Program02(maths).csproj.AssemblyReference.cache
+D:\internship.net\Days\Day04\Lecture practice\Day04\Program02(maths)\obj\Debug\Program02(maths).csproj.CoreCompileInputs.cache
+D:\internship.net\Days\Day04\Lecture practice\Day04\Program02(maths)\obj\Debug\Program02(maths).dll
+D:\internship.net\Days\Day04\Lecture practice\Day04\Program02(maths)\obj\Debug\Program02(maths).pdb

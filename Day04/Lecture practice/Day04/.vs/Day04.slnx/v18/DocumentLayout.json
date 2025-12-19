@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E04EAF-26BC-73A1-A963-F5E589C24108}|Program03\\Program03.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program03\\program03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39E04EAF-26BC-73A1-A963-F5E589C24108}|Program03\\Program03.csproj|solutionrelative:program03\\program03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\models\\sbcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\models\\sbcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|d:\\internship.net\\days\\day04\\lecture practice\\day04\\program04\\migrations\\20251215074516_mg9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354DAD0-E517-4C72-8C4A-4235D3855C51}|Program04\\Program04.csproj|solutionrelative:program04\\migrations\\20251215074516_mg9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program03",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program03\\Program03.csproj",
+              "RelativeDocumentMoniker": "Program03\\Program03.csproj",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program03\\Program03.csproj",
+              "RelativeToolTip": "Program03\\Program03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T06:35:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sbcontacts.cs",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Models\\Sbcontacts.cs",
+              "RelativeDocumentMoniker": "Program04\\Models\\Sbcontacts.cs",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Models\\Sbcontacts.cs",
+              "RelativeToolTip": "Program04\\Models\\Sbcontacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:47:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Program04\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Program04\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T05:00:04.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Program04\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Program04\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T14:44:31.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Program04\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Program04\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T14:43:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Program04\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Program04\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T07:37:51.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Program04\\Models\\Student.cs",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Models\\Student.cs",
+              "RelativeToolTip": "Program04\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:18:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251215074516_mg9.cs",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Migrations\\20251215074516_mg9.cs",
+              "RelativeDocumentMoniker": "Program04\\Migrations\\20251215074516_mg9.cs",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Lecture practice\\Day04\\Program04\\Migrations\\20251215074516_mg9.cs",
+              "RelativeToolTip": "Program04\\Migrations\\20251215074516_mg9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:45:17.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

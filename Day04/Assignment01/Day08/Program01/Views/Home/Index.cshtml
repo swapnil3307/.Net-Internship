@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome ........</h1>
+
+    @{
+        @if(ViewData["msg"] != null)
+        {
+            <p>@ViewData["msg"] @ViewData["Count"]</p>
+        }
+
+        int result = ViewBag.count + (int)ViewBag["count"];
+        <h1> @result</h1>
+        
+    }
+
+      
+    }
+</div>

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4B2B96-80BD-4FE5-AC9C-9542141F5C53}|Program01\\Program01.csproj|d:\\internship.net\\days\\day04\\assignment01\\day08\\program01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4B2B96-80BD-4FE5-AC9C-9542141F5C53}|Program01\\Program01.csproj|solutionrelative:program01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4B2B96-80BD-4FE5-AC9C-9542141F5C53}|Program01\\Program01.csproj|d:\\internship.net\\days\\day04\\assignment01\\day08\\program01\\views\\home\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B4B2B96-80BD-4FE5-AC9C-9542141F5C53}|Program01\\Program01.csproj|solutionrelative:program01\\views\\home\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4B2B96-80BD-4FE5-AC9C-9542141F5C53}|Program01\\Program01.csproj|d:\\internship.net\\days\\day04\\assignment01\\day08\\program01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B4B2B96-80BD-4FE5-AC9C-9542141F5C53}|Program01\\Program01.csproj|solutionrelative:program01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Print.cshtml",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\Program01\\Views\\Home\\Print.cshtml",
+              "RelativeDocumentMoniker": "Program01\\Views\\Home\\Print.cshtml",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\Program01\\Views\\Home\\Print.cshtml",
+              "RelativeToolTip": "Program01\\Views\\Home\\Print.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T03:24:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\Program01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Program01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\Program01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Program01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T02:54:54.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\Program01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Program01\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\internship.net\\Days\\Day04\\Assignment01\\Day08\\Program01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Program01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:47:05.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
