@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net-Internship\\Day09\\Day09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\migrations\\20251220090758_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\migrations\\20251220090758_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\Tasks.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Tasks.cs",
+              "RelativeToolTip": "Program01\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:44:02.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Program.cs",
+              "RelativeDocumentMoniker": "Program01\\Program.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Program.cs",
+              "RelativeToolTip": "Program01\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:29:20.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\IdentitySeed.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\IdentitySeed.cs",
+              "RelativeToolTip": "Program01\\Models\\IdentitySeed.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:15:18.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\Student.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Student.cs",
+              "RelativeToolTip": "Program01\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:11:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\Course.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Course.cs",
+              "RelativeToolTip": "Program01\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:15:53.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\Staff.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Staff.cs",
+              "RelativeToolTip": "Program01\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:23:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Program01\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Program01\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:54:07.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\Subject.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Subject.cs",
+              "RelativeToolTip": "Program01\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:20:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251220090758_mg1.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Migrations\\20251220090758_mg1.cs",
+              "RelativeDocumentMoniker": "Program01\\Migrations\\20251220090758_mg1.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Migrations\\20251220090758_mg1.cs",
+              "RelativeToolTip": "Program01\\Migrations\\20251220090758_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:07:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseGroup.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\CourseGroup.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\CourseGroup.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\CourseGroup.cs",
+              "RelativeToolTip": "Program01\\Models\\CourseGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:00:43.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\AppUser.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\AppUser.cs",
+              "RelativeToolTip": "Program01\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:25:04.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Program01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:38:13.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Mark.cs",
+              "RelativeDocumentMoniker": "Program01\\Models\\Mark.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Mark.cs",
+              "RelativeToolTip": "Program01\\Models\\Mark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:01:08.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

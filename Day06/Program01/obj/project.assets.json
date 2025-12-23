@@ -7357,11 +7357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\internship.net\\Days\\Day06\\Program01\\Program01.csproj",
+      "projectUniqueName": "D:\\.Net-Internship\\Day06\\Program01\\Program01.csproj",
       "projectName": "Program01",
-      "projectPath": "D:\\internship.net\\Days\\Day06\\Program01\\Program01.csproj",
+      "projectPath": "D:\\.Net-Internship\\Day06\\Program01\\Program01.csproj",
       "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
-      "outputPath": "D:\\internship.net\\Days\\Day06\\Program01\\obj\\",
+      "outputPath": "D:\\.Net-Internship\\Day06\\Program01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
