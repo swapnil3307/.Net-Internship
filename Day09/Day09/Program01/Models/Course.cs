@@ -1,16 +1,17 @@
-﻿namespace Program01.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace validationDemo.Models
 {
+    [Table("VDCourse")]
     public class Course
     {
+        
         public int CourseId { get; set; }
-        public string CourseName { get; set; }
 
-        public string Description { get; set; }
-        public string Duration { get; set; }
-        public decimal Fees { get; set; }
-
-        public ICollection<Student> Students { get; set; } = new List<Student>();
-        public ICollection<CourseGroup> Groups { get; set; }=new List<CourseGroup>();
-        public ICollection<Subject> Subjects { get; set; } = new List<Subject>();
+        
+            public string CourseName { get; set; }
+            public List<Student> Students { get; set; }
+        }
     }
-}
+

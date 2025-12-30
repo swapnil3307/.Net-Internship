@@ -1,8 +1,8 @@
-using System.Diagnostics;
+using ExceptionDemo.Models;
 using Microsoft.AspNetCore.Mvc;
-using Program01.Models;
+using System.Diagnostics;
 
-namespace Program01.Controllers
+namespace ExceptionDemo.Controllers
 {
     public class HomeController : Controller
     {

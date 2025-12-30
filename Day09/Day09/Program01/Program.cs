@@ -1,9 +1,6 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
-using Program01.Models;
+using ExceptionDemo.Filters;
 
-namespace Program01
+namespace ExceptionDemo
 {
     public class Program
     {
@@ -12,29 +9,21 @@ namespace Program01
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
-
-
-
-            builder.Services.AddDbContext<ApplicationDbContext>(options => 
-                options.UseSqlServer("Server =(LocalDB)\\MSSQLLocalDB;Database=ModelBuildingDB;Trusted_Connection =True;"));
-
-            builder.Services.AddIdentity<AppUser, IdentityRole>()
-                               .AddEntityFrameworkStores<ApplicationDbContext>();
+          builder.Services.AddControllersWithViews(options=>options.Filters.Add<GlobalExceptionFilter>());
+           // builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
-
-            using (var scope = app.Services.CreateScope())
-            {
-                 IdentitySeed.SeedRolesAndAdmin(scope.ServiceProvider);
-            }
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
             }
-            app.UseStaticFiles();
+            else
+            {
+                app.UseExceptionHandler("/Home/Error");
+            }
+                app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -42,7 +31,7 @@ namespace Program01
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Student}/{action=Index}/{id?}");
 
             app.Run();
         }

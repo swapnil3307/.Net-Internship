@@ -1,4 +1,4 @@
-namespace Program01.Models
+namespace ExceptionDemo.Models
 {
     public class ErrorViewModel
     {

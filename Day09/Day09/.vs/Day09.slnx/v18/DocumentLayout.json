@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Net-Internship\\Day09\\Day09\\",
+  "WorkspaceRootPath": "D:\\.Net-Internship_sp\\Day09\\Day09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\migrations\\20251220090758_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\migrations\\20251220090758_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\migrations\\20251220090758_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day09\\day09\\program01\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship_sp\\day09\\day09\\program01\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,11 +74,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Program01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Program01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T09:39:36.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Tasks.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Tasks.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Tasks.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\Tasks.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Tasks.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Tasks.cs",
               "RelativeToolTip": "Program01\\Models\\Tasks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,11 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Program.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Program.cs",
               "RelativeDocumentMoniker": "Program01\\Program.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Program.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Program.cs",
               "RelativeToolTip": "Program01\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IdentitySeed.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\IdentitySeed.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\IdentitySeed.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\IdentitySeed.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\IdentitySeed.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\IdentitySeed.cs",
               "RelativeToolTip": "Program01\\Models\\IdentitySeed.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\Student.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Student.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Student.cs",
               "RelativeToolTip": "Program01\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Course.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Course.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\Course.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Course.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Course.cs",
               "RelativeToolTip": "Program01\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Staff.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Staff.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Staff.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\Staff.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Staff.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Staff.cs",
               "RelativeToolTip": "Program01\\Models\\Staff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,35 +161,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Program01\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\ApplicationDbContext.cs",
               "RelativeToolTip": "Program01\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T06:54:07.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Subject.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Subject.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\Subject.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Subject.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Subject.cs",
               "RelativeToolTip": "Program01\\Models\\Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:20:44.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T04:20:44.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20251220090758_mg1.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Migrations\\20251220090758_mg1.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Migrations\\20251220090758_mg1.cs",
               "RelativeDocumentMoniker": "Program01\\Migrations\\20251220090758_mg1.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Migrations\\20251220090758_mg1.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Migrations\\20251220090758_mg1.cs",
               "RelativeToolTip": "Program01\\Migrations\\20251220090758_mg1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CourseGroup.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\CourseGroup.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\CourseGroup.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\CourseGroup.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\CourseGroup.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\CourseGroup.cs",
               "RelativeToolTip": "Program01\\Models\\CourseGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\AppUser.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\AppUser.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\AppUser.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\AppUser.cs",
               "RelativeToolTip": "Program01\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Program01\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Mark.cs",
-              "DocumentMoniker": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Mark.cs",
+              "DocumentMoniker": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Mark.cs",
               "RelativeDocumentMoniker": "Program01\\Models\\Mark.cs",
-              "ToolTip": "D:\\.Net-Internship\\Day09\\Day09\\Program01\\Models\\Mark.cs",
+              "ToolTip": "D:\\.Net-Internship_sp\\Day09\\Day09\\Program01\\Models\\Mark.cs",
               "RelativeToolTip": "Program01\\Models\\Mark.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
